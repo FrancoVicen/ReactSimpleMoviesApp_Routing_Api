@@ -10,6 +10,9 @@ function App() {
         <h1 className='title'><a className='a-title' href="/">Movie Yard</a></h1>
       </header>
       <MyRoutes/>
+      <footer>
+          <p className='footer-text'>© 2024 Franco Vicente</p>
+      </footer>
     </>
 
   )

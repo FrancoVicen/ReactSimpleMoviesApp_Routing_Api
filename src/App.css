@@ -15,3 +15,15 @@
   transition: all 0.8s;
   color: rgba(102, 51, 153, 0.676);
 }
+
+
+.footer-text {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: #33333308;
+  color: #fff;
+  padding: 10px;
+  user-select: none;
+  opacity: 0.4;
+}

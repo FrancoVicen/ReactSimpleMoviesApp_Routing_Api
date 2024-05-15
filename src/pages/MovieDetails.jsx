@@ -24,8 +24,6 @@ export function MovieDetails() {
             />
             <section className=' col movieDetails'>
                 <p className='movieTitle'>
-                    <strong>Title: </strong>
-                    {/* <br /> */}
                     {movie.title}
                 </p>
                 <p>
