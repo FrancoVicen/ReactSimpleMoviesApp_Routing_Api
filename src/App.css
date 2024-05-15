@@ -6,3 +6,12 @@
   text-shadow: rgba(223, 207, 61, 0.795) 2px 2px;
   font-family: 'Open Sans', Times, serif;
 }
+.a-title{
+  text-decoration: none;
+  outline: none;
+}
+.a-title:hover, .a-title:active{
+  text-decoration: none;
+  transition: all 0.8s;
+  color: rgba(102, 51, 153, 0.676);
+}

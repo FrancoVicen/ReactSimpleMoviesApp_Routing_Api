@@ -7,11 +7,11 @@ function App() {
   return (
     <>
       <header>
-        <h1 className='title'>Películas</h1>
+        <h1 className='title'><a className='a-title' href="/">Movie Yard</a></h1>
       </header>
       <MyRoutes/>
     </>
-    
+
   )
 }
 
