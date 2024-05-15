@@ -1,0 +1,14 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 2.5rem;
+    padding: 2.5rem;
+    justify-content: center;
+    background: rgba(199, 143, 255, 0.132);
+}
+
+@media (max-width: 560px){
+    .container{
+        grid-template-columns: 100%;
+    }
+}

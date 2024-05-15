@@ -1,0 +1,8 @@
+.title{
+  text-align: center;
+  font-size: 3rem;
+  margin-top: 1rem;
+  color: rgba(102, 51, 153, 0.676);
+  text-shadow: rgba(223, 207, 61, 0.795) 2px 2px;
+  font-family: 'Open Sans', Times, serif;
+}
